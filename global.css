@@ -1,0 +1,27 @@
+.gostBg {
+  background: rgba(128, 128, 128, 0.18);
+}
+
+.gost-txt {
+  color: rgba(128, 128, 128, 0.63);
+}
+
+.black-theme {
+  background-color: black !important;
+  color: white;
+}
+
+.navbar-pad {
+  padding-top: 57px;
+}
+
+.mainColor {
+  color: #0492eb;
+}
+.bg-blue-bm {
+  background-color: #0492eb;
+}
+
+.text-bm-blue {
+  color: #0492eb;
+}
